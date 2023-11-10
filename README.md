@@ -6,7 +6,7 @@ Bem-vindo ao repositório StatPyDataScience! Aqui, você encontrará uma coleç�
 
 Neste repositório, você encontrará material de estudo sobre os seguintes tópicos:
 
-- **Amostra e População:** Explorando os conceitos fundamentais de amostragem.
+- [**Amostra e População:**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Popula%C3%A7%C3%A3o_e_Amostra.ipynb) Explorando os conceitos fundamentais de amostragem.
 
 ## Contato
 
