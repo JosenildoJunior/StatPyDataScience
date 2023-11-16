@@ -6,8 +6,9 @@ Bem-vindo ao repositório StatPyDataScience! Aqui, você encontrará uma coleç�
 
 Neste repositório, você encontrará material de estudo sobre os seguintes tópicos:
 
-- [**Amostra e População:**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Popula%C3%A7%C3%A3o_e_Amostra.ipynb) Explorando os conceitos fundamentais de amostragem.
-- [**Classificação**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Classifica%C3%A7%C3%A3o.ipynb). Explorando os conceitos fundamentais sobre classificação.
+- [**Amostra e População:**](População_e_Amostra.ipynb) Explorando os conceitos fundamentais de amostragem.
+- [**Classificação**](Classificação.ipynb). Explorando os conceitos fundamentais sobre classificação.
+- [**Dados Absolutos e Relativo**](Dados_Absolutos_e_Relativos.ipynb). Explorando os conceitos fundamentais sobre dados absolutos e relativos.
 
 
 
