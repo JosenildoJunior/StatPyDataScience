@@ -9,6 +9,7 @@ Neste repositório, você encontrará material de estudo sobre os seguintes tóp
 - [**Amostra e População:**](População_e_Amostra.ipynb) Explorando os conceitos fundamentais de amostragem.
 - [**Classificação**](Classificação.ipynb). Explorando os conceitos fundamentais sobre classificação.
 - [**Dados Absolutos e Relativo**](Dados_Absolutos_e_Relativos.ipynb). Explorando os conceitos fundamentais sobre dados absolutos e relativos.
+- [**Distribuição de Frequência**](Distribuição_de_frequência.ipynb)
 
 
 
