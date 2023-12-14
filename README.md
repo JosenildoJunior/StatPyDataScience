@@ -11,8 +11,8 @@ Neste repositório, você encontrará material de estudo sobre os seguintes tóp
 - [**Dados Absolutos e Relativo:**](Dados_Absolutos_e_Relativos.ipynb) Compreendendo a diferença entre valores brutos e proporções em relação ao total.
 - [**Distribuição de Frequência:**](Distribuição_de_frequência.ipynb) Explorando como os dados são agrupados para identificar padrões e tendências.
 - [**Medidas de posição e dispersão:**](Medidas_de_posição_e_dispersão.ipynb)  Explorando a tendência central e a variabilidade nos conjuntos de dados.
-- [**Distribuições estatísticas:**](Distribuições_estatísticas.ipynb) Descrevendo a tendência central, a variabilidade e a forma de dados em uma população, usando modelos matemáticos..
-
+- [**Distribuições estatísticas:**](Distribuições_estatísticas.ipynb) Descrevendo a tendência central, a variabilidade e a forma de dados em uma população, usando modelos matemáticos.
+- [**Probabilidade:**](Probabilidade_estatística.ipynb) Avaliando a chance de um evento ocorrer.
 
 
 
