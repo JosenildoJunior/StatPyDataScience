@@ -13,7 +13,7 @@ Neste repositório, você encontrará material de estudo sobre os seguintes tóp
 - [**Medidas de posição e dispersão:**](Medidas_de_posição_e_dispersão.ipynb)  Explorando a tendência central e a variabilidade nos conjuntos de dados.
 - [**Distribuições estatísticas:**](Distribuições_estatísticas.ipynb) Descrevendo a tendência central, a variabilidade e a forma de dados em uma população, usando modelos matemáticos.
 - [**Probabilidade:**](Probabilidade_estatística.ipynb) Avaliando a chance de um evento ocorrer.
-- [**Intervalos de confiança e Teste de Hipóteses:**](Intervalos_de_confiança_e_Testes_de_hipóteses.ipynb) Realizando inferências sobre a população com base em dados amostrais, com um determinado nível de confiança.
+- [**Intervalos de confiança:**](Intervalos_de_confiança.ipynb.ipynb) Realizando inferências sobre a população com base em dados amostrais, com um determinado nível de confiança.
 
 
 
