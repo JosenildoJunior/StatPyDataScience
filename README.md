@@ -14,10 +14,19 @@ Neste repositório, você encontrará material de estudo sobre os seguintes tóp
 - [**Distribuições estatísticas:**](Distribuições_estatísticas.ipynb) Descrevendo a tendência central, a variabilidade e a forma de dados em uma população, usando modelos matemáticos.
 - [**Probabilidade:**](Probabilidade_estatística.ipynb) Avaliando a chance de um evento ocorrer.
 - [**Intervalos de confiança:**](Intervalos_de_confiança.ipynb) Realizando inferências sobre a população com base em dados amostrais, com um determinado nível de confiança.
-- [**Teste de hipóteses:**](Testes_de_hipóteses.ipynb) Avaliando se uma afirmação sobre uma população é verdadeira.
+- [**Teste de hipóteses:**](https://www.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/) Avaliando se uma afirmação sobre uma população é verdadeira.
 
 
 
+
+
+## Fontes
+
+As seguintes fontes foram usadas para criar este repositório:
+
+Cursos online:
+
+- [**Estatística para Ciência de Dados e Machine Learning**](Intervalos_de_confiança.ipynb) oferecido pelo Professor Jones Granatyr e IA Expert Academy
 
 
 
