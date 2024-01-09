@@ -16,6 +16,7 @@ Neste repositório, você encontrará material de estudo sobre os seguintes tóp
 - [**Intervalos de confiança:**](Intervalos_de_confiança.ipynb) Realizando inferências sobre a população com base em dados amostrais, com um determinado nível de confiança.
 - [**Teste de hipóteses:**](Testes_de_hipóteses.ipynb) Avaliando se uma afirmação sobre uma população é verdadeira.
 - [**Correlação e Regressão:**](Correlação_e_Regressão.ipynb) Estimar o valor de uma variável com base no valor de outra variável.
+- [**Visualização:**](Visualização.ipynb) Comunicação de dados de forma clara e eficaz.
 
 
 
