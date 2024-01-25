@@ -30,6 +30,9 @@ As seguintes fontes foram usadas para criar este repositório:
 Cursos online:
 
 - [**Estatística para Ciência de Dados e Machine Learning**](https://www.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/) oferecido pelo Professor Jones Granatyr e IA Expert Academy
+- [**E.B.A - Estatística do Básico ao Avançado**](https://www.renatabiaggi.com/eba) oferecido pela Professora Renata Biaggi 
+
+  
 
 
 
