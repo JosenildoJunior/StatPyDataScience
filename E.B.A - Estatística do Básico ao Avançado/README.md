@@ -6,22 +6,21 @@ Este repositório contém anotações e exercícios de Estatística para Ciênci
 
 Neste repositório, você encontrará material de estudo relacionado aos seguintes temas:
 
-- [**População e amostra**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Popula%C3%A7%C3%A3o_e_Amostra.ipynb): Dados de um grupo ou de uma parte dele.
-- [**Dados absolutos e relativos**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Dados_Absolutos_e_Relativos.ipynb): Quantidade e comparação com um total.
-- [**Distribuição de frequência**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Distribui%C3%A7%C3%A3o_de_frequ%C3%AAncia.ipynb): Organização de dados por valores.
-- [**Medidas de posição e dispersão**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Medidas_de_posi%C3%A7%C3%A3o_e_dispers%C3%A3o.ipynb): Características centrais e de variação dos dados.
-- [**Distribuição estatísticas**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Distribui%C3%A7%C3%B5es_estat%C3%ADsticas.ipynb): Modelagem dos dados por meio de funções matemáticas.
-- [**Probabilidade**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Probabilidade_estat%C3%ADstica.ipynb): Medida da chance de um evento ocorrer.
-- [**Intervalo de confiança**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Intervalos_de_confian%C3%A7a.ipynb): Estimativa de um parâmetro populacional.
-- [**Correlação e regressão**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Correla%C3%A7%C3%A3o_e_Regress%C3%A3o.ipynb): Relação entre duas variáveis.
-- [**Visualização**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/Estat%C3%ADstica%20para%20Ci%C3%AAncia%20de%20Dados/Notebooks/Visualiza%C3%A7%C3%A3o.ipynb): Representação de dados de forma clara e compreensível.
+- [**Estatística descritiva**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Estat%C3%ADstica_descritiva_EBA.ipynb): trata da descrição dos dados, por meio de medidas de tendência central, dispersão e forma.
+
+## Desafios 
+
+Aplicando conceito estatísticos em dados reais.
+
+- [**Desafio iFood**](https://github.com/JosenildoJunior/StatPyDataScience/tree/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Desafios/Ifood): Realizando uma análise descritiva com o intuito de solucionar problemas de negócios
+
 
 ## Estrutura do Repositório
 
 Os notebooks estão organizados da seguinte forma:
 
-- Anotações: contém anotações sobre os conceitos de estatística e insights que foram sendo adquirido com o entendimento do assunto.
-- Exercícios: contém exercícios resolvidos sobre os conceitos com o intuito de fixar melhor o assunto e colocar em prática o que vem sendo aprendido.
+Anotações: contém anotações sobre os conceitos de estatística e insights que foram sendo adquiridos com o entendimento do assunto.
+Desafios: contém a resolução de diferentes desafios utilizando diferentes bases de dados.
 
 ## Fontes
 
@@ -29,7 +28,7 @@ As seguintes fontes foram usadas para criar este repositório:
 
 Cursos online:
 
-- [**Estatística para Ciência de Dados e Machine Learning**](https://www.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/) oferecido pelo Professor Jones Granatyr e IA Expert Academy
+- [**E.B.A - Estatística do Básico ao Avançado**](https://www.renatabiaggi.com/eba) oferecido pela Professora Renata Biaggi
 
 ## Contato
 
