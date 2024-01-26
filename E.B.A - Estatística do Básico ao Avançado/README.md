@@ -10,7 +10,7 @@ Neste repositório, você encontrará material de estudo relacionado aos seguint
 
 ## Desafios 
 
-Aplicando conceito estatísticos em dados reais.
+Aplicando conceitos estatísticos em dados reais.
 
 - [**Desafio iFood**](https://github.com/JosenildoJunior/StatPyDataScience/tree/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Desafios/Ifood): Realizando uma análise descritiva com o intuito de solucionar problemas de negócios
 
