@@ -20,8 +20,8 @@ Neste repositório, você encontrará material de estudo relacionado aos seguint
 
 Os notebooks estão organizados da seguinte forma:
 
-- Anotações: contém anotações sobre os conceitos de estatística e insights que foram sendo adquirido com o entendimento do assunto.
-- Exercícios: contém exercícios resolvidos sobre os conceitos com o intuito de fixar melhor o assunto e colocar em prática o que vem sendo aprendido.
+- `Anotações`: contém anotações sobre os conceitos de estatística e insights que foram sendo adquirido com o entendimento do assunto.
+- `Exercícios`: contém exercícios resolvidos sobre os conceitos com o intuito de fixar melhor o assunto e colocar em prática o que vem sendo aprendido.
 
 ## Fontes
 
