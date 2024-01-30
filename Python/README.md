@@ -1,4 +1,4 @@
-# StatPyDataScience - Estatística em Python para Ciência de Dados
+# StatPyDataScience - Estatística com Python para Ciência de Dados
 
 Este repositório contém anotações abordando diferentes topicos do **Python** visando um melhor aprendizado da linguagem para sua aplicação em ciencia de dados.
 
