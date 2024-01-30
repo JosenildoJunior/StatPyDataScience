@@ -1,4 +1,4 @@
-# StatPyDataScience - Estatística em Python para Ciência de Dados
+# StatPyDataScience - Estatística com Python para Ciência de Dados
 
 Bem-vindo ao repositório StatPyDataScience! Aqui, você encontrará uma coleção de notebooks, anotações e exercícios relacionados à estatística, todos criados com o objetivo de facilitar o nosso aprendizado na aplicação da estatística em Python, especialmente no contexto da ciência de dados.
 
