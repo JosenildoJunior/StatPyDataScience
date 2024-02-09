@@ -8,7 +8,7 @@ Neste repositório, você encontrará material de estudo relacionado aos seguint
 
 - [**Estatística descritiva**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Estat%C3%ADstica_descritiva_EBA.ipynb): Trata da descrição dos dados, por meio de medidas de tendência central, dispersão e forma.
 - [**Probabilidade e Distribuição**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Probabilidade_e_distribui%C3%A7%C3%A3o.ipynb): Ferramentas para lidar com o acaso e a incerteza.
-
+- [**Fundamentos para o teste de hipóteses**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Fundamentos_Teste_de_Hip%C3%B3tese.ipynb): Conceitos fundamentais para um melhor entendimento dos testes de hipóteses
 
 ## Desafios 
 
