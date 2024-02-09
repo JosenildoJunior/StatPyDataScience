@@ -6,8 +6,8 @@ Bem-vindo ao repositório StatPyDataScience! Aqui, você encontrará uma coleç�
 
 Neste repositório, você encontrará material de estudo relacionado a dois temas:
 
-1. **Estatística para Ciência de Dados**
-2. **Python Básico**
+1. **`Estatística para Ciência de Dados`**
+2. **`Python Básico`**
 
 ## Estrutura do Repositório
 
