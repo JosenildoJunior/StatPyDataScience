@@ -22,9 +22,9 @@ Aplicando conceitos estatísticos em dados reais.
 
 Os notebooks estão organizados da seguinte forma:
 
-Anotações: contém anotações sobre os conceitos de estatística e insights que foram sendo adquiridos com o entendimento do assunto.
+`Anotações`: contém anotações sobre os conceitos de estatística e insights que foram sendo adquiridos com o entendimento do assunto.
 
-Desafios: contém a resolução de diferentes desafios utilizando diferentes bases de dados.
+`Desafios`: contém a resolução de diferentes desafios utilizando diferentes bases de dados.
 
 ## Fontes
 
