@@ -18,7 +18,9 @@ Neste repositório, você encontrará material de estudo relacionado aos seguint
 
 -  [**Testes não paramétricos**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Testes_n%C3%A3o_param%C3%A9tricos.ipynb): Explorando métodos não paramétricos para análise de dados, abrangendo diferentes testes e técnicas para situações onde os pressupostos paramétricos não são atendidos.
 
--  [**Testes A/B**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Testes_A_B.ipynb): Comparando duas abordagens para comunicar conceitos estatísticos
+-  [**Testes A/B**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Testes_A_B.ipynb): Comparando duas abordagens para comunicar conceitos estatísticos.
+
+-  [**Correlação e Regressão Linear**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Correla%C3%A7%C3%A3o_e_Regress%C3%A3o_Linear.ipynb): Analisando a relação entre variáveis e modelando suas interações para entender padrões e prever comportamentos.
 
   
 
