@@ -22,6 +22,8 @@ Neste repositório, você encontrará material de estudo relacionado aos seguint
 
 -  [**Correlação e Regressão Linear**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Correla%C3%A7%C3%A3o_e_Regress%C3%A3o_Linear.ipynb): Analisando a relação entre variáveis e modelando suas interações para entender padrões e prever comportamentos.
 
+- [**Regressão Logística**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Notebooks/Regress%C3%A3o_Log%C3%ADstica.ipynb): Modelagem de eventos binários através de variáveis independentes.
+
   
 
   
