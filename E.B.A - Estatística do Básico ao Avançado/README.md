@@ -35,6 +35,10 @@ Aplicando conceitos estatísticos em dados reais.
   
 - [**Desafio ONG**](https://github.com/JosenildoJunior/StatPyDataScience/blob/main/E.B.A%20-%20Estat%C3%ADstica%20do%20B%C3%A1sico%20ao%20Avan%C3%A7ado/Desafios/ONG/Desafio_Teste_de_Hip%C3%B3tese.ipynb): Avaliando a probabilidade da adoção de animais entre pessoas que assistiram a determinados vídeos de campanhas.
 
+## Projetos
+
+- [**Depression Analysis**](https://github.com/JosenildoJunior/DepressionAnalysis): Analisando perfis demográficos e associações entre hábitos e depressão nos EUA de 2005 a 2006.
+
 ## Estrutura do Repositório
 
 Os notebooks estão organizados da seguinte forma:
